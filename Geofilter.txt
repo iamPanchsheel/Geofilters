@@ -1,0 +1,82 @@
+// Welcome to the code viewer.
+// Here you can see an indication of what your Blockly project might look like when written in code.
+ 
+Geofilter (
+  Layers = [
+    Filter (
+      Design = "Electro"
+      Color = "#ff9279"
+    )
+    Stamp (
+      Design = "Node"
+      Color = "#ff9279"
+      X = 66
+      Y = 6
+      Modifiers = [
+        Scale (
+          Value = 2
+        )
+        Spin (
+          Value = 2
+        )
+        Opacity (
+          Value = 7
+        )
+      ]
+    )
+    Frame (
+      Design = "Motherboard"
+      Color = "#fff162"
+    )
+    Stamp (
+      Design = "Pencil"
+      Color = "#1bdea1"
+      X = 100
+      Y = 75
+      Modifiers = [
+        Spin (
+          Value = 1
+        )
+        Scale (
+          Value = 3
+        )
+        Opacity (
+          Value = 10
+        )
+      ]
+    )
+    Text (
+      Words = "CODE THE FUTURE"
+      Style = "Script"
+      Color = "#8991e8"
+      X = 71
+      Y = 88
+      Modifiers = [
+        Scale (
+          Value = 7
+        )
+        Opacity (
+          Value = 10
+        )
+        Spin (
+          Value = 2
+        )
+      ]
+    )
+    Text (
+      Words = "THIS IS JUST THE BEGINNING"
+      Style = "Script"
+      Color = "#ff9279"
+      X = 80
+      Y = 91
+      Modifiers = [
+        Scale (
+          Value = 5
+        )
+        Spin (
+          Value = 2
+        )
+      ]
+    )
+  ]
+)
